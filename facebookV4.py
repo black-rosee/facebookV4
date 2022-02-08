@@ -168,7 +168,8 @@ def banner():
 \x1b[1;94m======================================================
 \033[96;1m{=} \x1b[1;96mwhatsapp : 08\x1b[1;93m lah cok laine lali sok sok yo\x1b[1;91m :v
 \033[96;1m{=} \x1b[1;94mFacebook : www.facebook.com/Ǝ.ちᏎち.ツ︻ヸテணייי一一一
-\033[96;1m====================================================== """)) 
+\033[96;1m======================================================
+ """)) 
 
 MAX_IPV4 = ipaddress.IPv4Address._ALL_ONES # IP
 MAX_IPV6 = ipaddress.IPv6Address._ALL_ONES # IP
